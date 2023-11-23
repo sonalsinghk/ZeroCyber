@@ -1,0 +1,87 @@
+body{
+    background-color: #45474B;
+}
+h1{
+    text-align: center;
+    color: #F5F7F8;
+    font-size:6rem;
+}
+h2{
+    text-align: center;
+    color: #F5F7F8;
+    margin-bottom: 2rem;
+}
+h4{
+    color: #F5F7F8;
+}
+p{
+    color: #F5F7F8;
+}
+/* NAVBAR */
+.navbar-brand{
+    color: #F5F7F8;
+    margin-left: 15px;
+}
+.navbar{
+    color: #F5F7F8;
+}
+.nav-link{
+    color: #F5F7F8;
+}
+.btn{
+    background-color: #F4CE14;
+}
+
+/* TAGLINE */
+.tagline{
+    color: #F5F7F8;
+    margin-top: 10rem;
+    text-align: center;
+}
+
+/* LEADERBOARD */
+.leadiv{
+    margin-top: 5rem;
+}
+.card-title{
+    text-align: center;
+    color: #F5F7F8;
+}
+.card{
+    background-color:  #45474B;
+    border: none;
+}
+.card-text{
+    color: #F5F7F8;
+}
+
+/* Footer */
+.Footer{
+    background-color: #F5F7F8;
+    margin-top: 5rem;
+}
+
+/* QUIZ PAGE */
+
+/* text content */
+.text-content{
+    margin-top: 7rem;
+}
+.quiz-text{
+    margin-top: 2rem;
+}
+
+/* SPAM DETECTOR PAGE */
+.spam-text{
+    margin-top: 8rem;
+    margin-bottom: 22rem;
+}
+/* Game Page */
+.main-content{
+    margin-top: 7rem;
+}
+
+/* Login Page  */
+login-h1{
+    margin-top: 20rem;
+}
