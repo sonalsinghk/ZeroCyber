@@ -1,0 +1,30 @@
+{% extends "index.html" %}
+{% load static %}
+{% block title %}@{{request.user.username}} Game Zone - ZeroCyber{% endblock title %}
+
+{% block content %}
+
+      <div class="main-content">
+        <h1>Play a game</h1>
+        <h2>To get ahead of cybercriminals</h2>
+      </div>
+      <div class="card text-center">
+        <div class="card-header">
+          <img src="{% static 'images/car.gif' %}" alt="game-pic">
+        </div>
+        <div class="card-body">
+          <h5 class="card-title">Unlock the cybercriminal chronicles</h5>
+          <p class="card-text">Get ahead of cybercriminals in no time with ZeroCyber</p>
+          <a href="" class="btn btn-primary">Play Game</a>
+        </div>
+        <div class="card-footer text-body-secondary">
+          Updated 2 days ago
+        </div>
+      </div>
+      
+    </section>
+
+
+{% endblock content %}  
+    <!-- JS CDN LINK -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
