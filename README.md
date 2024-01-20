@@ -14,5 +14,8 @@
 </div>
 
 ### Stand-out Functionalities:
+1) A quiz app
+2) Game based quiz
+   
 
 
