@@ -21,6 +21,7 @@ https://github.com/user-attachments/assets/7970a23b-b857-4c20-83d8-4ba80e77d799
    ii) User Login Page        <br />
    
 https://github.com/user-attachments/assets/29dac173-0c33-4d1c-8dd2-106294482b9f
+
    iii) User Profile Edit     <br />
    iv) Variety of topics to Quize  <br />
 2) Game based quiz
