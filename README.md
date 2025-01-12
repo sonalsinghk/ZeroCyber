@@ -14,23 +14,24 @@
 </div>
 
 ### Stand-out Functionalities:
-https://github.com/user-attachments/assets/7970a23b-b857-4c20-83d8-4ba80e77d799
+
 
 1) A quiz app   <br />
 
-https://github.com/user-attachments/assets/aaf9f376-f41a-4bf7-a856-23374590d9d0
-
-
+    https://github.com/user-attachments/assets/aaf9f376-f41a-4bf7-a856-23374590d9d0
+   
    i) User Registration Page  <br />
    ii) User Login Page        <br />
    
-https://github.com/user-attachments/assets/29dac173-0c33-4d1c-8dd2-106294482b9f
+   https://github.com/user-attachments/assets/29dac173-0c33-4d1c-8dd2-106294482b9f
 
    iii) User Profile Edit     <br />
    iv) Variety of topics to Quize  <br />
 2) Game based quiz
    --> Each round will contain one question. If user answers it correctly, user is eligible for the next round. <br />
    --> If user succed all rounds, Voila! You win. <br />
+   
+   https://github.com/user-attachments/assets/7970a23b-b857-4c20-83d8-4ba80e77d799
    
 ### Future Scops
 1) An email spam detector: Enter a spam email and the portal will discover if the email is a spam/fraud email or not.
