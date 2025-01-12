@@ -14,7 +14,7 @@
 </div>
 
 ### Stand-out Functionalities:
-1) A quiz app
+1) A quiz app   <br />
    i) User Registration Page  <br />
    ii) User Login Page        <br />
    iii) User Profile Edit     <br />
