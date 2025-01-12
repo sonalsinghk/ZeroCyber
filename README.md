@@ -18,16 +18,17 @@
 
 1) A quiz app   <br />
 
-    https://github.com/user-attachments/assets/83de3786-f0b4-4f2d-aa74-e0e0cfc49537
-   
    i) User Registration Page  <br />
    ii) User Login Page        <br />
-   
-   https://github.com/user-attachments/assets/29dac173-0c33-4d1c-8dd2-106294482b9f
-
    iii) User Profile Edit     <br />
+   
+     https://github.com/user-attachments/assets/29dac173-0c33-4d1c-8dd2-106294482b9f
+    
    iv) Variety of topics to Quize  <br />
-2) Game based quiz
+
+   https://github.com/user-attachments/assets/83de3786-f0b4-4f2d-aa74-e0e0cfc49537
+   
+1) Game based quiz
    --> Each round will contain one question. If user answers it correctly, user is eligible for the next round. <br />
    --> If user succed all rounds, Voila! You win. <br />
    
