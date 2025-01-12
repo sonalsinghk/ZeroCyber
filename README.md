@@ -14,7 +14,8 @@
 </div>
 
 ### Stand-out Functionalities:
-<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHQ5YTFsMW45bnpsdmJwMnltcmJscmh5MnpmdThhOWJvZWhiOGt1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12W5Sg2koWYnwA/giphy.webp">
+https://github.com/user-attachments/assets/7970a23b-b857-4c20-83d8-4ba80e77d799
+
 1) A quiz app   <br />
    i) User Registration Page  <br />
    ii) User Login Page        <br />
