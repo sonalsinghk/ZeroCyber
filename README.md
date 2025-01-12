@@ -28,7 +28,7 @@
 
    https://github.com/user-attachments/assets/83de3786-f0b4-4f2d-aa74-e0e0cfc49537
    
-1) Game based quiz
+1) Game based quiz  <br />
    --> Each round will contain one question. If user answers it correctly, user is eligible for the next round. <br />
    --> If user succed all rounds, Voila! You win. <br />
    
