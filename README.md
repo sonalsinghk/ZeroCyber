@@ -18,7 +18,7 @@
 
 1) A quiz app   <br />
 
-    https://github.com/user-attachments/assets/aaf9f376-f41a-4bf7-a856-23374590d9d0
+    [https://github.com/user-attachments/assets/aaf9f376-f41a-4bf7-a856-23374590d9d0](https://github.com/user-attachments/assets/83de3786-f0b4-4f2d-aa74-e0e0cfc49537)
    
    i) User Registration Page  <br />
    ii) User Login Page        <br />
