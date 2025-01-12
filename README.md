@@ -15,7 +15,17 @@
 
 ### Stand-out Functionalities:
 1) A quiz app
+   i) User Registration Page
+   ii) User Login Page
+   iii) User Profile Edit
+   iv) Variety of topics to Quize
 2) Game based quiz
+   --> Each round will contain one question. If user answers it correctly, user is eligible for the next round.
+   --> If user succed all rounds, Voila! You win.
+   
+### Future Scops
+1) An email spam detector: Enter a spam email and the portal will discover if the email is a spam/fraud email or not.
+
    
 
 
